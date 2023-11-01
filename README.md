@@ -14,4 +14,7 @@ Library dan Versi yang digunakan:
 
 ## How to start project
 
-1.
+1. Clone the repo https://github.com/louisapstg/FrontendDevReactjs-LouisSitanggang.git
+2. cd to FrontendDevReactjs-LouisSitanggang
+3. npm install
+4. npm run dev
